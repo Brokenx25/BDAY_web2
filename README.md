@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Birthday Countdown Website 🎂✨
 
 A beautiful, animated birthday countdown website with two pages:
@@ -75,3 +76,6 @@ Works in all modern browsers:
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
 Enjoy creating a magical birthday surprise! 🎉💕
+=======
+# BDAY_web1
+>>>>>>> f50b942f8d33e9fc7a726c963259bc0770834806
